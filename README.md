@@ -13,6 +13,14 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+ - 09-01-2022 [An introduction for Git](https://yanboyang.com/git/)
+ - 07-01-2022 [Getting Started Rofi](https://yanboyang.com/rofi/)
+ - 07-01-2022 [Getting Started NetworkManager](https://yanboyang.com/networkmanager/)
+ - 06-01-2022 [Getting Started with NeoVim](https://yanboyang.com/neovim/)
+ - 05-01-2022 [Getting Started Alacritty Terminal](https://yanboyang.com/alacritty/)
+ - 05-01-2022 [Take a Screenshot and upload to Cloudinary using Bash Scripts](https://yanboyang.com/cloudinary/)
+ - 05-01-2022 [Pipe to/from the clipboard in a Bash script](https://yanboyang.com/clipboard/)
+ - 31-12-2021 [Getting Started with Scala](https://yanboyang.com/scala/)
+ - 29-12-2021 [Beginner guide to install Proxmox](https://yanboyang.com/proxmoxinstall/)
+ - 29-12-2021 [Getting Started with Org Roam](https://yanboyang.com/orgroam/)<!-- BLOG-POST-LIST:END -->
 
