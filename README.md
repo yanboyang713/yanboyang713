@@ -13,14 +13,14 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+ - 11-01-2022 [Picom: A lightweight compositor for X11](https://yanboyang.com/picom/)
+ - 11-01-2022 [Multi Monitor SetUp](https://yanboyang.com/multimonitor/)
+ - 11-01-2022 [Getting Started DWM&#39;s Status Monitor](https://yanboyang.com/dwmstatusmonitor/)
+ - 11-01-2022 [Getting Started Slock](https://yanboyang.com/slock/)
+ - 11-01-2022 [How to management patches in DWM](https://yanboyang.com/dwmpatches/)
  - 10-01-2022 [Create Github Profile based on README](https://yanboyang.com/githubprofile/)
  - 09-01-2022 [An introduction for Git](https://yanboyang.com/git/)
  - 07-01-2022 [Getting Started Rofi](https://yanboyang.com/rofi/)
  - 07-01-2022 [Getting Started NetworkManager](https://yanboyang.com/networkmanager/)
- - 06-01-2022 [Getting Started with NeoVim](https://yanboyang.com/neovim/)
- - 05-01-2022 [Getting Started Alacritty Terminal](https://yanboyang.com/alacritty/)
- - 05-01-2022 [Take a Screenshot and upload to Cloudinary using Bash Scripts](https://yanboyang.com/cloudinary/)
- - 05-01-2022 [Pipe to/from the clipboard in a Bash script](https://yanboyang.com/clipboard/)
- - 31-12-2021 [Getting Started with Scala](https://yanboyang.com/scala/)
- - 29-12-2021 [Beginner guide to install Proxmox](https://yanboyang.com/proxmoxinstall/)<!-- BLOG-POST-LIST:END -->
+ - 06-01-2022 [Getting Started with NeoVim](https://yanboyang.com/neovim/)<!-- BLOG-POST-LIST:END -->
 
