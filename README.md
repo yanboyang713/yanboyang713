@@ -13,14 +13,14 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+ - 06-03-2022 [Arch Linux Unofficial user repositories](https://yanboyang.com/archlinuxuserrepository/)
+ - 06-03-2022 [Installing Wechat Desktop Client](https://yanboyang.com/wechat/)
+ - 03-03-2022 [Linux modification keys: ctrl and caps exchange](https://yanboyang.com/keyboardmodification/)
  - 15-01-2022 [Change the Suckless DWM Wallpaper with Feh](https://yanboyang.com/dwmwallpaper/)
  - 13-01-2022 [Getting Started Xorg with display manager](https://yanboyang.com/xorg/)
  - 13-01-2022 [Getting Started Display Server compared with X11, Wayland and Mir](https://yanboyang.com/displayserver/)
  - 11-01-2022 [Picom: A lightweight compositor for X11](https://yanboyang.com/picom/)
  - 11-01-2022 [Multi Monitor SetUp](https://yanboyang.com/multimonitor/)
  - 11-01-2022 [Getting Started DWM&#39;s Status Monitor](https://yanboyang.com/dwmstatusmonitor/)
- - 11-01-2022 [Getting Started Slock](https://yanboyang.com/slock/)
- - 11-01-2022 [How to management patches in DWM](https://yanboyang.com/dwmpatches/)
- - 10-01-2022 [Create Github Profile based on README](https://yanboyang.com/githubprofile/)
- - 09-01-2022 [An introduction for Git](https://yanboyang.com/git/)<!-- BLOG-POST-LIST:END -->
+ - 11-01-2022 [Getting Started Slock](https://yanboyang.com/slock/)<!-- BLOG-POST-LIST:END -->
 
