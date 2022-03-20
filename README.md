@@ -13,7 +13,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 20-03-2022 [Getting Started Personal Arch Linux Package Repository with GitHub](https://yanboyang.com/archlinuxpackagerepository/)
+ - 20-03-2022 [Getting Started Custom Arch Linux Package Repository with GitHub](https://yanboyang.com/archlinuxpackagerepository/)
  - 18-03-2022 [Getting Started Magit on Doom Emacs](https://yanboyang.com/magit/)
  - 17-03-2022 [Getting started with Simulation of Urban Mobility &lpar;SUMO&rpar;](https://yanboyang.com/gettingwithsumo/)
  - 15-03-2022 [Analysis of Trends](https://yanboyang.com/analysisoftrends/)
