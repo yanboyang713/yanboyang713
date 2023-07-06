@@ -2,14 +2,14 @@
 
 ### Hi there, I am Boyang Yan 👋
 
-- 🔭 I’m currently studing at **RMIT** University
+- 🔭 I’m currently studing at **NC State** University
 - 🌱 Contact INFO: Email: yanboyang713@gmail.com
 - 👯 Programming: C++, Python, R, Lisp
-- 🤔 Operating System: [Arch Linux](https://archlinux.org/)
+- 🤔 Operating System: [Meta Scientificlinux Linux](https://www.metascientificlinux.com/)
 - 💬 Window Manager: [DWM](https://dwm.suckless.org/) / [I3WM](https://i3wm.org/)
 - 📫 Editor: [Emacs](https://www.gnu.org/software/emacs/) , [Neovim](https://neovim.io/)
 - 😄 My Blog: [yanboyang.com](https://yanboyang.com)
-- ⚡ Hobby: Ham Radio (**BH3EYI**/**VK2LBY**)
+- ⚡ Hobby: Ham Radio (**KQ4KQQ**/**BH3EYI**/**VK2LBY**)
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
