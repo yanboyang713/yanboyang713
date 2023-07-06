@@ -5,7 +5,7 @@
 - 🔭 I’m currently studing at **NC State** University
 - 🌱 Contact INFO: Email: yanboyang713@gmail.com
 - 👯 Programming: C++, Python, R, Lisp
-- 🤔 Operating System: [Meta Scientificlinux Linux](https://www.metascientificlinux.com/)
+- 🤔 Operating System: [Meta Scientific Linux](https://www.metascientificlinux.com/)
 - 💬 Window Manager: [DWM](https://dwm.suckless.org/) / [I3WM](https://i3wm.org/)
 - 📫 Editor: [Emacs](https://www.gnu.org/software/emacs/) , [Neovim](https://neovim.io/)
 - 😄 My Blog: [yanboyang.com](https://yanboyang.com)
